@@ -4,7 +4,8 @@
 
 # jupyter notebook
 ipykernel==6.27.1
-ipywidgets==8.1.1py
+ipywidgets==8.1.1
+nbconvert
 
 # data visualization
 matplotlib==3.8.2
